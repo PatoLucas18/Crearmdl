@@ -1,0 +1,10 @@
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\bin\Debug\3dtomdl.exe.config
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\obj\x86\Debug\3dtomdl.exe
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\obj\x86\Debug\3dtomdl.xml
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\obj\x86\Debug\3dtomdl.pdb
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\bin\Debug\3dtomdl.exe
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\bin\Debug\3dtomdl.pdb
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\bin\Debug\3dtomdl.xml
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\obj\x86\Debug\_3dtomdl.Form1.resources
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\obj\x86\Debug\_3dtomdl.Resources.resources
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\obj\x86\Debug\Crearmdl.vbproj.GenerateResource.Cache

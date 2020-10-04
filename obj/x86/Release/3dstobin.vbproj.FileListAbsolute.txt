@@ -1,0 +1,9 @@
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\bin\Release\3dstobin.exe
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\bin\Release\3dstobin.pdb
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\bin\Release\3dstobin.xml
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\obj\x86\Release\_3dstobin.Form1.resources
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\obj\x86\Release\_3dstobin.Resources.resources
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\obj\x86\Release\3dstobin.vbproj.GenerateResource.Cache
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\obj\x86\Release\3dstobin.exe
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\obj\x86\Release\3dstobin.xml
+C:\Users\P\Documents\Visual Studio 2010\Projects\3dstobin\3dstobin\obj\x86\Release\3dstobin.pdb
