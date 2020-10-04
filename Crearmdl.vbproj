@@ -8,9 +8,9 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{D78F7172-B19C-4FD1-B7DC-E5699FB0B7C4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>_3dtomdl.My.MyApplication</StartupObject>
-    <RootNamespace>_3dtomdl</RootNamespace>
-    <AssemblyName>3dtomdl</AssemblyName>
+    <StartupObject>_Crearmdl.My.MyApplication</StartupObject>
+    <RootNamespace>_Crearmdl</RootNamespace>
+    <AssemblyName>Crearmdl</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
@@ -23,7 +23,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>3dtomdl.xml</DocumentationFile>
+    <DocumentationFile>Crearmdl.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
@@ -33,7 +33,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>3dtomdl.xml</DocumentationFile>
+    <DocumentationFile>Crearmdl.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
